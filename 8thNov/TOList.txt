@@ -1,0 +1,16 @@
+8th Arrays Lists
+Class 
+Inheritance
+Struct
+Enum
+Access Modifiers
+
+Start ADO.Net
+Show CRUD Operations
+
+
+9th
+Abstract Class Interface DateTime Delegates LINQ Lambda
+Continue ADO.Net
+Show CRUD Operations
+
