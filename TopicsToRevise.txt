@@ -1,0 +1,32 @@
+HTML
+Semnati ELements \
+What is element 
+Tag
+Attribute 
+Why do we need Javascript
+ Functions in JS
+ How do we declare variables in JS
+ WHat is DOM?
+ What methods are avaliable to access & manipulate DOM elements
+Hoisting
+Spread & Rest Opeartors
+Arrays in JS
+CSS
+Ways to use CSS
+Layouts
+FLex
+Box Layout
+WHat is Dotnet Framework
+Benefits of Dotnet Framework
+COmponents of DOtnEt Fraemwrok
+CLR CTS CLS
+Compilation in DOtnEt hapens in 2 steps
+Functions of CLR
+
+
+
+
+
+
+
+

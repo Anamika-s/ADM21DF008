@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>FlexBox Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container
+        {
+            height:544px;
+            width:100%;
+            border:2px solid black;
+            display:flex;
+           
+justify-content:space-between;
+align-items:center;
+        }
+        .item
+
+        {
+            background-color:tomato;
+            border:2px solid red;
+            margin:10px;
+            padding:10px;
+            height:200px;
+            width:200px;
+
+        }
+        #item-1{
+            
+             order: 100; 
+
+            flex-grow: 2;
+            flex-shrink: 2; 
+
+        }
+        #item-2{
+  order: 120; 
+            /* flex-grow: 3;
+            flex-shrink: 3 ; */
+            flex-basis: 160px;
+            /* when flex-direction is set to row flex-basis: will control width */
+            /* when flex-direction is set to column flex-basis: will control height */
+        }
+        #item-3{
+            /* flex: 2 2 230px; */
+/* grow shrink flex-basis
+            align-self: flex-start;
+            align-self: flex-end;
+            align-self: center;
+
+            }
+
+    </style>
+</head>
+<body>
+    <h1> Flex Demo </h1>
+    <div class="container">
+        <div class="item" id="item-1"> First Box</div>
+
+        <div class="item" id="item-2"> Second Box</div>
+        <div class="item" id="item-3">Third Box</div>
+        <div class="item" id="item-4">Fourth Box</div>
+        
+
+        <div class="item" id="item-6">Sixth Box </div>
+
+
+    </div>
+    
+</body>
+</html>
