@@ -1,0 +1,24 @@
+
+Viewengine is the combination of HTML tags, Server Controls and a programming language and works inside the application for rendering view to the browser or to the user.
+from Genc to All Participants:
+What is the use of view engine?
+In ASP.Net MVC, View engine is the one that works between your view and browser to provide valid HTML output to your browser by considering output provided by your view. There are many types of view engines. View engine gives the ability to render the HTML from your view to the browser. Web form / ASPX view engine.
+from Genc to All Participants:
+The Razor View Engine is an advanced view engine, available with MVC 3.0 and later versions.
+from Aman Pandey to Genc (privately):
+yes ma'am
+from Genc to All Participants:
+@ 
+from Genc to All Participants:
+<%=%>
+ 
+Which view engine is better Razor or ASPX?
+The Razor View Engine is a bit slower than the ASPX View Engine. Razor provides a new view engine with streamlined code for focused templating. Razor's syntax is very compact and improves readability of the markup and code. By default MVC supports ASPX (web forms) and Razor View Engine.
+
+from Aniket Patil to Genc (privately):
+procedures are faster
+
+from Aniket Patil to Genc (privately):
+a class which is executed on every request
+from Aniket Patil to Genc (privately):
+startup
