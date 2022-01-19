@@ -1,0 +1,5 @@
+Consume it from MVC Application
+
+Store Web Api Base URL in appSettings.json file
+
+
